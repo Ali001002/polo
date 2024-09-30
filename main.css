@@ -1,0 +1,24 @@
+.Employee{
+    background-color: aqua;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 30%;
+    height: 180px;
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+.popo{
+    background-color: red;
+    color: white;
+}
+.id{
+    background-color: yellow;
+}
+.jkjk{
+    background-color: green;
+    color: white;
+}
